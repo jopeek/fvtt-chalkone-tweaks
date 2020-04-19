@@ -1,0 +1,15 @@
+{
+	"name": "chalkone-tweaks",
+	"title": "ChalkOne's Tweaks",
+	"description": "Just some tweaks and patches I enjoy for Foundry VTT.",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.5.3",
+	"compatibleCoreVersion": "0.5.5",
+	"author": "Jan Ole Peek (ChalkOne)",
+	"systems": ["dnd5e"],
+	"scripts": ["/chalkone.js"],
+	"styles": ["/css/chalkone.css"],
+	"url": "https://github.com/jopeek/fvtt-chalkone-tweaks",
+	"manifest": "https://raw.githubusercontent.com/jopeek/fvtt-chalkone-tweaks/master/module.json",
+	"download": "https://github.com/jopeek/fvtt-chalkone-tweaks/archive/master.zip"
+}

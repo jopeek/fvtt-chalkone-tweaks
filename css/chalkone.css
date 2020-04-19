@@ -1,0 +1,58 @@
+#playlists li.playlist .sound-control i.fas.fa-square {
+color: #d53737;
+}
+
+#playlists li.playlist .sound-control i.fas.fa-play {
+color: #7be677;
+}
+
+#compendium li.compendium-pack {
+  display: flex;
+}
+
+.compendium-footer {
+  flex: 1 1 auto;
+  text-align: right;
+  color: #777;
+  font-size: 0.8em;
+}
+
+#compendium li.compendium-pack .pack-title {
+  margin-bottom: 0px;
+}
+
+.prealpha {
+  display: none;
+}
+
+#hotbar {
+  display: none;
+}
+
+#camera-views {
+  bottom: 12px;
+}
+
+#chat-controls div.roll-type-select select {
+  width: auto;
+}
+
+.camera-view.camera-box-dock {
+  border-color: #000 !important;
+}
+
+h3.player-name {
+  border-color: #000 !important;
+  background: rgba(0, 0, 0, 0.2) !important;
+}
+
+.notification-bar.right.flexcol {
+  display: none;
+}
+
+#compendium li.compendium-pack .status-icons {
+  margin-left: 5px;
+  display: inline;
+  position: inherit;
+  font-size: 10px;
+}
