@@ -56,3 +56,12 @@ h3.player-name {
   position: inherit;
   font-size: 10px;
 }
+
+#token-hud .status-effects .effect-control {
+  opacity: 0.8;
+}
+
+#token-hud .status-effects .effect-control.active {
+  border: 1px solid #ff6400;
+  border-radius: 1px;
+}
