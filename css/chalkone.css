@@ -1,4 +1,4 @@
-#playlists li.playlist .sound-control i.fas.fa-square {
+/* #playlists li.playlist .sound-control i.fas.fa-square {
 color: #d53737;
 }
 
@@ -64,4 +64,8 @@ h3.player-name {
 #token-hud .status-effects .effect-control.active {
   border: 1px solid #ff6400;
   border-radius: 1px;
+} */
+
+.dnd5e.sheet.item {
+  min-width: 650px;
 }
